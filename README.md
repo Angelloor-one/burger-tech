@@ -2,7 +2,7 @@
 
 Aplicación web dinámica desarrollada en PHP y MySQL para la gestión de un menú de hamburguesería utilizando el patrón arquitectónico Modelo-Vista-Controlador (MVC).
 
-**Desarrollado por:** ALP  
+**Desarrollado por:** ANGEL LOOR Y ROBINSON RICAURTE 
 **Curso:** DAW 2026  
 
 ##  Requisitos Mínimos Cumplidos
