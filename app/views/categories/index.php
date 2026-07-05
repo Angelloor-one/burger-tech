@@ -11,6 +11,8 @@
 <div class="nav-links">
     <a href="index.php?controlador=productos&accion=listar">🍔 Gestionar Productos</a>
     <a href="index.php?controlador=categorias&accion=listar" class="active">📂 Gestionar Categorías</a>
+    <a href="index.php?controlador=usuarios&accion=listar">👥 Gestionar Personal</a>
+    <a href="index.php?controlador=pedidos&accion=listar">🧾 Comandas / Pedidos</a>
 </div>
 
 <div class="container">
